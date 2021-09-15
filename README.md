@@ -6,4 +6,4 @@ Used data set scrapped from the IMDB contains details
 * Cast
 * Description
 * Ratings
-Used Word2Vec Model to find the similar movies based on the Movie name and content based filtering method
+# Used Word2Vec Model to find the similar movies based on the Movie name and content based filtering method
